@@ -1,0 +1,11 @@
+{
+    "java.home": "/opt/jdk-15.0.2+7",
+    "java.configurations.runtimes":"/opt/jdk1.8.0_281",
+    "maven.excludedFolders": [
+    
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin"
+    ]
+}
