@@ -6,27 +6,28 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch l765",
+            "name": "Launch l32",
             "request": "launch",
-            "mainClass": "algo.leetcode.l765"
+            "mainClass": "algo.leetcode.l32"
         },
         {
             "type": "java",
-            "name": "Launch l448",
+            "name": "Launch l30",
             "request": "launch",
-            "mainClass": "algo.leetcode.l448"
+            "mainClass": "algo.leetcode.l30"
         },
         {
             "type": "java",
-            "name": "Launch l448",
+            "name": "Launch l25",
             "request": "launch",
-            "mainClass": "leetcode.l448"
+            "mainClass": "algo.leetcode.l25",
+            "projectName": ""
         },
         {
             "type": "java",
-            "name": "Launch sort",
+            "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "sort"
+            "mainClass": "${file}"
         },
         {
             "name": "cpp - 生成和调试活动文件",

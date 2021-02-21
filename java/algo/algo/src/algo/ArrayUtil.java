@@ -29,4 +29,12 @@ public class ArrayUtil {
         }
         System.out.println();
     }
+
+    public static <T> void printLinkList(ListNode head){
+        while(head!=null){
+            System.out.println(head.val);
+            head =head.next;
+        }
+        System.out.println();
+    }
 }
