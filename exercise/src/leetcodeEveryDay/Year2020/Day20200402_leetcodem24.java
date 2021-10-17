@@ -1,7 +1,6 @@
 package leetcodeEveryDay.Year2020;
 
-import leetcodeEveryDay.util.ListNode;
-import leetcodeEveryDay.util.TreeNode;
+import base.ListNode;
 
 public class Day20200402_leetcodem24 {
     static ListNode last = null;

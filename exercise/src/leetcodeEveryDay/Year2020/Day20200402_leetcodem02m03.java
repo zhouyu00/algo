@@ -1,6 +1,6 @@
 package leetcodeEveryDay.Year2020;
 
-import leetcodeEveryDay.util.ListNode;
+import base.ListNode;
 
 public class Day20200402_leetcodem02m03 {
     public void deleteNode(ListNode node) {

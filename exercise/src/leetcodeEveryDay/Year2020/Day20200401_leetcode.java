@@ -1,9 +1,7 @@
 package leetcodeEveryDay.Year2020;
 
-import leetcodeEveryDay.util.TreeNode;
-import sun.awt.image.ImageWatched;
+import base.TreeNode;
 
-import java.sql.PreparedStatement;
 import java.util.LinkedList;
 
 public class Day20200401_leetcode {

@@ -1,6 +1,6 @@
 package leetcodeEveryDay.Year2020;
 
-import leetcodeEveryDay.util.TreeNode;
+import base.TreeNode;
 
 public class Day20200408_leetcodem0402 {
     public TreeNode sortedArrayToBST(int[] nums) {
